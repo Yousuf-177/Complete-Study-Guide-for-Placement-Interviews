@@ -149,8 +149,8 @@ Phase 6  📅  Company-wise Prep Guides
 
 Contributions are welcome and appreciated!
 
-- 🐛 Found an error? [Open an issue](#)
-- ➕ Want to add a topic? [Submit a pull request](#)
+- 🐛 Found an error? [Open an issue](https://github.com/Yousuf-177/Complete-Study-Guide-for-Placement-Interviews/issues)
+- ➕ Want to add a topic? [Submit a pull request](https://github.com/Yousuf-177/Complete-Study-Guide-for-Placement-Interviews/pulls)
 - 📝 Follow the existing formatting style for consistency
 
 Please ensure all content is original or properly attributed.
