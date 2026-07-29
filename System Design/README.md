@@ -3,9 +3,6 @@
 ## Overview
 This repository contains a comprehensive system design preparation planner aimed at beginners and freshers [cite: 1]. The primary goal is to achieve readiness for job interviews and online assessments with a strict daily time budget of 1 hour/day [cite: 1]. 
 
-## Timeline Adjustments
-Although initially requested as a 30-day planner, the actual timeline has been extended to 34 days to adequately cover all 49 topics without rushing or dropping critical information [cite: 1]. The plan includes 32 full study days and 2 dedicated revision/mock-test days [cite: 1].
-
 ## Curriculum Structure
 The preparation is organized into 5 distinct phases [cite: 1]:
 
